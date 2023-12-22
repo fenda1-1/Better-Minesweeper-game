@@ -25,3 +25,5 @@
 1. 标记策略优化：只有当一个位置可以根据当前已揭开坐标数明确计算出是雷时，标记该位置才会减少查询到的当前雷数。
 
 2.游戏体验优化:初始坐标及其至少周围的8个坐标都无雷分布
+![image](https://github.com/fenda1-1/Better-Minesweeper-game/assets/141987638/b000ae08-dfb6-4b79-9813-464745147a87)
+![image](https://github.com/fenda1-1/Better-Minesweeper-game/assets/141987638/092d0636-f70b-4a81-9e1b-f8cc903b724f)
