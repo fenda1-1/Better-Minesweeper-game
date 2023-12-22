@@ -1,2 +1,4 @@
-# Better-Minesweeper-game
-This is a relatively complete pure c language minesweeper project, using standard c functions, any compiler can run directly
+# 更好的扫雷游戏
+这是一个**相对完整**的**纯 C 语言扫雷项目**，使用**标准 C 函数**，任何编译器都可以直接运行。
+
+该扫雷游戏提供了比较合理的逻辑设计，并**优化**了一些游戏策略。你可以进入程序查看更多**具体信息**。
